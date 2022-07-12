@@ -1,7 +1,7 @@
 # NYT API Script
 # 2021/12/28
 
-apikey <- 'qotO53aLO9Q0YoR9MmPEjpxiZsX2zhQl'
+apikey <- ''
 
 nyt_scraper <- function(query, start_date, end_date, output_name) {
   
